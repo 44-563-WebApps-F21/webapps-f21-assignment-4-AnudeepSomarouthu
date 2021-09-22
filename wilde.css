@@ -51,3 +51,31 @@
     color:salmon;
 }
 
+/* table,
+th,
+td {
+    border: 1px solid black;
+} */
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: auto;
+    margin: left;
+    text-align: center;
+    padding: 15px;
+    border-spacing: 5px;
+    background-color: whitesmoke;
+  }
+
+tr:nth-child(odd)
+{
+    background-color: #e2e2e2;
+}
+
+th{
+    background-color:lightskyblue;
+}
+
+td{
+    background-color: whitesmoke;
+} 
