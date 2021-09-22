@@ -6,7 +6,7 @@
 .act-name{
     font-family:sans-serif;
     color:chocolate;
-    text-shadow: 2px 2px #ff0000;
+    
 }
 
 .act{
@@ -39,7 +39,7 @@
 }
 .name{
     font-size: medium;
-    text-shadow: 2px 2px #ff0000;
+    
     color: black;
 }
 .lady{
@@ -50,3 +50,4 @@
     font-size: medium;
     color:salmon;
 }
+
